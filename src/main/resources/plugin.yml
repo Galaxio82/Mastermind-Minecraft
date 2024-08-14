@@ -1,0 +1,11 @@
+name: Mastermind
+description: Un plugin permettant de jouer à Mastermind
+version: 1.0.0
+api-version: 1.20
+main: fr.galaxio.mastermind.Main
+database: true
+author: Galaxio
+commands:
+  mastermind:
+    description: Permet de lancer le Mastermind
+    permission: mastermind.mastermind
